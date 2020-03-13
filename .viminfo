@@ -1,0 +1,304 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1584086649,,"wq"
+:q
+|2,0,1584086516,,"q"
+:w
+|2,0,1584070750,,"w"
+:q!
+|2,0,1583078465,,"q!"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	た
+|3,1,36,0,1,0,1583078796,"た"
+
+# ファイルマーク:
+'0  1  2  ~/workspace/git-study/wise.md
+|4,48,1,2,1584086649,"~/workspace/git-study/wise.md"
+'1  24  1  /tmp/crontab.im5OQ0/crontab
+|4,49,24,1,1584080378,"/tmp/crontab.im5OQ0/crontab"
+'2  23  57  /tmp/crontab.ivHavQ/crontab
+|4,50,23,57,1584080282,"/tmp/crontab.ivHavQ/crontab"
+'3  1  0  ~/workspace/vim-study/text.tyt
+|4,51,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+'4  1  0  ~/.profile
+|4,52,1,0,1584070648,"~/.profile"
+'5  168  0  /tmp/tutorShTUQ7
+|4,53,168,0,1583079131,"/tmp/tutorShTUQ7"
+'6  1  0  ~/workspace/vim-study/test.txt
+|4,54,1,0,1583078465,"~/workspace/vim-study/test.txt"
+'7  1  0  ~/.profile
+|4,55,1,0,1583078373,"~/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  1  2  ~/workspace/git-study/wise.md
+|4,39,1,2,1584086649,"~/workspace/git-study/wise.md"
+-'  24  1  /tmp/crontab.im5OQ0/crontab
+|4,39,24,1,1584080378,"/tmp/crontab.im5OQ0/crontab"
+-'  24  1  /tmp/crontab.im5OQ0/crontab
+|4,39,24,1,1584080378,"/tmp/crontab.im5OQ0/crontab"
+-'  1  0  /tmp/crontab.im5OQ0/crontab
+|4,39,1,0,1584080320,"/tmp/crontab.im5OQ0/crontab"
+-'  1  0  /tmp/crontab.im5OQ0/crontab
+|4,39,1,0,1584080320,"/tmp/crontab.im5OQ0/crontab"
+-'  23  57  /tmp/crontab.ivHavQ/crontab
+|4,39,23,57,1584080282,"/tmp/crontab.ivHavQ/crontab"
+-'  23  57  /tmp/crontab.ivHavQ/crontab
+|4,39,23,57,1584080282,"/tmp/crontab.ivHavQ/crontab"
+-'  23  57  /tmp/crontab.ivHavQ/crontab
+|4,39,23,57,1584080282,"/tmp/crontab.ivHavQ/crontab"
+-'  23  57  /tmp/crontab.ivHavQ/crontab
+|4,39,23,57,1584080282,"/tmp/crontab.ivHavQ/crontab"
+-'  1  0  /tmp/crontab.ivHavQ/crontab
+|4,39,1,0,1584080235,"/tmp/crontab.ivHavQ/crontab"
+-'  1  0  /tmp/crontab.ivHavQ/crontab
+|4,39,1,0,1584080235,"/tmp/crontab.ivHavQ/crontab"
+-'  1  0  /tmp/crontab.ivHavQ/crontab
+|4,39,1,0,1584080235,"/tmp/crontab.ivHavQ/crontab"
+-'  1  0  /tmp/crontab.ivHavQ/crontab
+|4,39,1,0,1584080235,"/tmp/crontab.ivHavQ/crontab"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/workspace/vim-study/text.tyt
+|4,39,1,0,1584070770,"~/workspace/vim-study/text.tyt"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584070648,"~/.profile"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  168  0  /tmp/tutorShTUQ7
+|4,39,168,0,1583079131,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+-'  1  0  /tmp/tutorShTUQ7
+|4,39,1,0,1583078530,"/tmp/tutorShTUQ7"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/wise.md
+	*	1584086643	0
+	"	1	2
+	^	5	42
+	.	5	39
+	+	5	39
+
+> /tmp/crontab.im5OQ0/crontab
+	*	1584080370	0
+	"	24	1
+	^	24	2
+	.	24	2
+	+	2	0
+	+	24	2
+
+> /tmp/crontab.ivHavQ/crontab
+	*	1584080277	0
+	"	23	57
+	^	23	58
+	.	23	57
+	+	23	57
+
+> ~/workspace/vim-study/text.tyt
+	*	1584070768	0
+	"	1	0
+
+> ~/.profile
+	*	1584070641	0
+	"	1	0
+
+> /tmp/tutorShTUQ7
+	*	1583079101	0
+	"	168	0
+	^	135	0
+	.	135	0
+	+	90	6
+	+	89	1
+	+	83	59
+	+	108	59
+	+	131	56
+	+	133	41
+	+	134	15
+	+	135	0
+
+> ~/workspace/vim-study/test.txt
+	*	1583078451	0
+	"	1	0
